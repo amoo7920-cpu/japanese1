@@ -1,0 +1,10 @@
+{
+  "name": "일본어 OPIc 학습 플래너",
+  "description": "일본어 OPIc 시험에 효과적으로 대비할 수 있는 학습 플래너 및 모의 연습 앱입니다. 가장 무난하고 유리한 백그라운드 서베이 추천 조건과 예상 기출문제, 한국어 발음 및 해석이 포함된 모범 답안을 제공하고, AI 피드백을 통해 고득점 달성을 지원합니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
